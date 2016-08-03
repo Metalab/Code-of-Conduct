@@ -4,11 +4,11 @@ Hausordnung
 Code of Conduct
 ---------------
 
-Das Metalab ist eine inklusive Gemeinschaft, wo alle Menschen willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
+Das Metalab ist eine inklusive Gemeinschaft, wo alle Menschen willkommen sind, um in einer respektvollen und toleranten Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme  Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 
-Um klarzustellen, was erwartet wird, verpflichten sich alle Beteiligten im Metalab den folgenden Code of Conduct zu befolgen. Der Code of Conduct gilt in den Räumlichkeiten des Metalabs, bei allen physischen Meetings und Events sowie in allen Kommunikationskanälen und bei anderen virtuellen Aktivitäten.
+Um klarzustellen, was erwartet wird, verpflichten sich alle Beteiligten im Metalab den folgenden Code of Conduct zu befolgen. Der Code of Conduct gilt in den Räumlichkeiten des Metalabs, bei allen physischen Meetings und Events sowie in allen Kommunikationskanälen.
 
-Wir bemühen uns, eine freundliche und lehrreiche Atmosphäre im Lab herzustellen.
+Wir bemühen uns um eine freundliche und lehrreiche Atmosphäre im Lab.
 
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können jemandem “unter die Haut gehen”. Wenn du darauf hingewießen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
 
@@ -20,6 +20,6 @@ Wir bemühen uns, eine freundliche und lehrreiche Atmosphäre im Lab herzustelle
 
 * Wenn du andere bei unzulässigem Verhalten beobachtest, kontaktiere bitte unverzüglich die Anlaufstelle. Alle Vorfälle, die gemeldet werden, werden vertrauenswürdig behandelt und ernst genommen. Allen Vorfällen wird mit Rücksichtnahme nachgegangen.
 
-* Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab der geschädigten Partei eine Entschuldigung entgegenbringen und soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
+* Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
 
 * Menschen sind verschieden und nicht alle werden unseren Erwartungen genügen. Daher wird immer zuerst ein Kompromiss angestrebt, bevor eine weitere Eskalation zum Hausverbot passiert.
