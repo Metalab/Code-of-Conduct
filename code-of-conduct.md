@@ -14,7 +14,9 @@ Wir bemühen uns um eine freundliche und lehrreiche Atmosphäre im Lab.
 
 * Herabwürdigendes Verhalten, mit dem nicht alle Beteiligten einverstanden sind, wird nicht geduldet.
 
-* Belästigung umfasst ausschließende oder unerwünschte Kommentare über (zum Beispiel) Geschlecht, sexuelle Orientierung, Behinderungen, Aussehen, Konfektionsgröße, ethnische Zugehörigkeit sowie religiöse Überzeugung. Belästigung umfasst ebenso verbale und körperliche Provokationen, Einschüchterungen, ungewollte Fotos oder Aufnahmen, wiederholte Unterbrechungen von Gesprächen und unangemessenen körperlichen Kontakt.
+* Belästigung umfasst ausschließende oder unerwünschte Kommentare über (zum Beispiel) Geschlecht, sexuelle Orientierung, Behinderungen, Aussehen, Konfektionsgröße, ethnische Zugehörigkeit sowie religiöse Überzeugung. Belästigung umfasst ebenso verbale und körperliche Provokationen, Einschüchterungen, wiederholte Unterbrechungen von Gesprächen und unangemessenen körperlichen Kontakt.
+
+* Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneter Personen gestattet.
 
 * Von Beteiligten, die dazu aufgefordert werden, unangemessenes Verhalten wie beispielweise Belästigung zu unterlassen, wird erwartet, dass sie das sofort tun.
 
