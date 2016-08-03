@@ -23,3 +23,8 @@ Wir bemühen uns, eine freundliche und lehrreiche Atmosphäre im Lab herzustelle
 * Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab der geschädigten Partei eine Entschuldigung entgegenbringen und soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
 
 * Jede der folgenden Gegenmaßnahmen können erwartet werden: Zuwiderhandelnde können gebeten werden, ihr Verhalten zu ändern. Wenn sich das Verhalten fortsetzt, müssen Zuwiderhandelnde das Metalab unverzüglich verlassen und können mit Ausschluss vom Metalab und Metalab Veranstaltungen belegt werden.
+
+Benutzung von Heavy Machinery und Whateverlab
+---------------------------------------------
+
+Es gibt zusätzliche Regeln zur Benutzung von Heavy Machinery und Whateverlab. Bitte lies sie vor deren Benutzung.

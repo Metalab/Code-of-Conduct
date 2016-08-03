@@ -23,3 +23,9 @@ We strive to provide a fun, educational and friendly atmosphere in the club.
 * Metalab is aware of its responsibilities as a public and inclusive hackerspace. If an incident were to occur, Metalab will give an apology to the offended party and future actions will be taken to make sure this does not reoccur.
 
 * Any or all of the following countermeasures are to be expected: the alleged offender may be requested to change their behaviour. If the behaviour continues, the alleged offender is to immediately leave the site and can be prohibited from visiting Metalab and Metalab events.
+
+
+Using the Heavy Machinery and Whateverlab
+-----------------------------------------
+
+There are additional terms when using the Heavy Machinery and Whateverlab. Please make sure you read and understand them before doing so.
