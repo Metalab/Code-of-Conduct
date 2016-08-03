@@ -8,6 +8,8 @@ Das Metalab ist eine inklusive Gemeinschaft, wo alle Menschen willkommen sind, u
 
 Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs bzw. anderen Treffen im Rahmen des Vereins Metalab von allen Anwesenden erwartet wird.
 
+* Das Metalab strebt eine flache Hierarchie an. Daher liegt es an jedem einzelnen, Verantwortung für die Situation im Metalab zu übernehmen.
+
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können jemandem “unter die Haut gehen”. Wenn du darauf hingewießen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
 
 * Herabwürdigendes Verhalten, mit dem nicht alle Beteiligten einverstanden sind, wird nicht geduldet.
