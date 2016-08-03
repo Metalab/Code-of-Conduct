@@ -16,8 +16,6 @@ Wir bemühen uns um eine freundliche und lehrreiche Atmosphäre im Lab.
 
 * Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneter Personen gestattet.
 
-* Von Beteiligten, die dazu aufgefordert werden, unangemessenes Verhalten wie beispielweise Belästigung zu unterlassen, wird erwartet, dass sie das sofort tun.
-
 * Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt und vertraulich behandelt. Du kannst dich jederzeit an sie wenden.
 
 * Wir erwarten von allen Anwesenden, dass sie angespannte Situationen selbstständig, spätestens aber, wenn jemand um Hilfe bittet, nach bestem Wissen und Gewissen deeskalieren.
