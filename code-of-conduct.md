@@ -20,6 +20,4 @@ Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs
 
 * Wir erwarten von allen Anwesenden, dass sie angespannte Situationen selbstständig, spätestens aber, wenn jemand um Hilfe bittet, nach bestem Wissen und Gewissen deeskalieren.
 
-* Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
-
 * Menschen sind verschieden und nicht alle werden unseren Erwartungen genügen. Daher wird immer zuerst ein Kompromiss angestrebt, bevor eine weitere Eskalation zum Hausverbot passiert.
