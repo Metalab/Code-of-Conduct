@@ -6,9 +6,7 @@ Code of Conduct
 
 Das Metalab ist eine inklusive Gemeinschaft, wo alle Menschen willkommen sind, um in einer respektvollen und toleranten Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme  Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 
-Um klarzustellen, was erwartet wird, verpflichten sich alle Beteiligten im Metalab den folgenden Code of Conduct zu befolgen. Der Code of Conduct gilt in den Räumlichkeiten des Metalabs, bei allen physischen Meetings und Events sowie in allen Kommunikationskanälen.
-
-Wir bemühen uns um eine freundliche und lehrreiche Atmosphäre im Lab.
+Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs bzw. anderen Treffen im Rahmen des Vereins Metalab von allen Anwesenden erwartet wird.
 
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können jemandem “unter die Haut gehen”. Wenn du darauf hingewießen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
 
