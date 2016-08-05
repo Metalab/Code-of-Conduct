@@ -23,3 +23,5 @@ Wir bemühen uns, eine freundliche und lehrreiche Atmosphäre im Lab herzustelle
 * Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab der geschädigten Partei eine Entschuldigung entgegenbringen und soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
 
 * Jede der folgenden Gegenmaßnahmen können erwartet werden: Zuwiderhandelnde können gebeten werden, ihr Verhalten zu ändern. Wenn sich das Verhalten fortsetzt, müssen Zuwiderhandelnde das Metalab unverzüglich verlassen und können mit Ausschluss vom Metalab und Metalab Veranstaltungen belegt werden.
+
+* Jeder im Lab ist dazu angehalten, Hilfe Suchende ernst zu nehmen und soweit möglich erste Hilfestellungen unabhängig einer Schuldfrage anzubieten.
