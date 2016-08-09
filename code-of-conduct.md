@@ -14,6 +14,8 @@ Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs
 
 * Wir erwarten von allen Anwesenden, dass sie angespannte Situationen selbstständig, spätestens aber, wenn jemand um Hilfe bittet, nach bestem Wissen und Gewissen deeskalieren.
 
+* Wir erwarten von allen Anwesenden, dass sie Hinweisen auf belästigendes Verhalten nachgehen.
+
 * Herabwürdigendes Verhalten, mit dem nicht alle Beteiligten einverstanden sind, wird nicht geduldet.
 
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können jemandem “unter die Haut gehen”. Wenn du darauf hingewießen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
