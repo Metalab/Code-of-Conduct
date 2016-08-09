@@ -4,22 +4,33 @@ Hausordnung
 Code of Conduct
 ---------------
 
-Das Metalab ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 
-Um klarzustellen, was erwartet wird, verpflichten sich alle Beteiligten im Metalab den folgenden Code of Conduct zu befolgen. Der Code of Conduct gilt in den Räumlichkeiten des Metalabs, bei allen physischen Meetings und Events sowie in allen Kommunikationskanälen und bei anderen virtuellen Aktivitäten.
+Das Metalab strebt eine flache Hierarchie an und setzt als Organisationsstruktur die Do-Ocracy ein. Das bedeutet, dass alle Mitglieder gleichberechtigt sind, und das Metalab zum erschaffen neuer Dinge nutzen dürfen, sofern sie dabei niemanden einschränken. In der Praxis setzen wir das so um:
 
-Wir bemühen uns, eine freundliche und lehrreiche Atmosphäre im Lab herzustellen.
+* Benutze nur Equipment, für das du ausreichend geschult wurdest, bzw. Überzeuge wenigstens ein Mitglied von deinem Wissensstand. Lies vor allem auch die Wiki-Einträge!
 
-* Denk nach, worüber du sprichst. Vergiss nicht, dass sexistische, rassistische oder anderweitig ausschließende Bemerkungen, auch als Witz, beleidigend für deine Mitmenschen sein können. Sie sind nicht passend für das Metalab.
+* Bereinige so bald als möglich deinen Arbeitsplatz und das von dir verwendete Equipment, spätestens aber wenn du gehst.
 
-* Seid freundlich zueinander. Verhalte dich nicht auf herabwürdigende Weise gegenüber Anwesenden. Wer gegen diese Regeln verstößt, kann aufgefordert werden, das Metalab zu verlassen.
+* Solltest du Equipment oder das Metalab beschädigen, informiere schnellst möglich [interne? Core? Anlaufstelle? Wiki?] und kümmere dich um Schadensbegrenzung bzw. -behebung. ["Die meisten Schäden werden vom Metalab als Abnutzungserscheinung selbst finanziell getragen, sofern du nicht grob Fahrlässig gehandelt hast."?]
 
-* Belästigung umfasst ausschließende oder unerwünschte Kommentare über (zum Beispiel) Geschlecht, sexuelle Orientierung, Behinderungen, Aussehen, Konfektionsgröße, ethnische Zugehörigkeit sowie religiöse Überzeugung. Belästigung umfasst ebenso verbale und körperliche Provokationen, Einschüchterungen, ungewollte Fotos oder Aufnahmen, wiederholte Unterbrechungen von Gesprächen und unangemessenen körperlichen Kontakt.
+* Bevor du Metalab-Infrastruktur veränderst, sprich dich mindestens mit core ab, am besten aber der ganzen internen Mailingliste.
 
-* Von Beteiligten, die dazu aufgefordert werden, unangemessenes Verhalten wie beispielweise Belästigung zu unterlassen, wird erwartet, dass sie das sofort tun.
+* Beende jegliche Handlung, sobald dich jemand darauf hinweist, dass dadurch jemand eingeschränkt wird.
 
-* Wenn du andere bei unzulässigem Verhalten beobachtest, kontaktiere bitte unverzüglich die Anlaufstelle. Alle Vorfälle, die gemeldet werden, werden vertrauenswürdig behandelt und ernst genommen. Allen Vorfällen wird mit Rücksichtnahme nachgegangen.
+* Länger als 30 min. schlafen ist im Metalab verboten.
 
-* Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab der geschädigten Partei eine Entschuldigung entgegenbringen und soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
+* Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneten Personen gestattet.
 
-* Jede der folgenden Gegenmaßnahmen können erwartet werden: Zuwiderhandelnde können gebeten werden, ihr Verhalten zu ändern. Wenn sich das Verhalten fortsetzt, müssen Zuwiderhandelnde das Metalab unverzüglich verlassen und können mit Ausschluss vom Metalab und Metalab Veranstaltungen belegt werden.
+* Herabwürdigendes Verhalten, mit dem nicht alle Beteiligten einverstanden sind, wird nicht geduldet.
+
+* Alle Member können vom Hausrecht gebrauch machen, und andere Lebensformen des Labs verweisen. Dieses Hausverbot kann auf core@metalab.at publik gemacht werden.
+
+* Gegen dieses Hausverbot kann bei [Jour Fixe? Core? Anlaufstelle?] Einspruch erhoben werden.
+
+* Der Verein Metalab schreibt kein Verhalten vor. Alle anwesenden sind dazu angehlaten, sich selbstständig korrekte Umgangsformen miteinander zu überlegen und auszumachen.
+
+* Grundsätzlich tritt das Metalab jedoch mit folgenden Erwartungshaltungen an dich heran:
+  * Das Metalab hat eine Anlaufstelle, die alle gemeldeten Probleme ernst nimmt und vertraulich behandelt. Du kannst dich jederzeit an sie wenden.
+  * Wir erwarten von allen Anwesenden, dass sie angespannte Situationen selbstständig, spätestens aber, wenn jemand um Hilfe bittet, nach bestem Wissen und Gewissen deeskalieren.
+  * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können jemandem "unter die Haut gehen". Wenn du darauf hingewießen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
+  * Menschen sind verschieden und nicht alle werden unseren erwartungen genügen. Daher wird immer zuerst ein Kompromiss angestrebt, bevor eine Eskalation zum Hausverbot passiert.
