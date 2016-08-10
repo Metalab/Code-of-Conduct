@@ -20,6 +20,6 @@ Wir bemühen uns, eine freundliche und lehrreiche Atmosphäre im Lab herzustelle
 
 * Wenn du andere bei unzulässigem Verhalten beobachtest, kontaktiere bitte unverzüglich die Anlaufstelle. Alle Vorfälle, die gemeldet werden, werden vertrauenswürdig behandelt und ernst genommen. Allen Vorfällen wird mit Rücksichtnahme nachgegangen.
 
-* Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab der geschädigten Partei eine Entschuldigung entgegenbringen und soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
+* Das Metalab ist sich der Verantwortung bewusst, einen offenen und inklusiven Hackerspace zu betreiben. Bei Vorfällen wird das Metalab soweit möglich sicherstellen, dass Vorfälle dieser Art nicht wieder vorkommen.
 
 * Jede der folgenden Gegenmaßnahmen können erwartet werden: Zuwiderhandelnde können gebeten werden, ihr Verhalten zu ändern. Wenn sich das Verhalten fortsetzt, müssen Zuwiderhandelnde das Metalab unverzüglich verlassen und können mit Ausschluss vom Metalab und Metalab Veranstaltungen belegt werden.
