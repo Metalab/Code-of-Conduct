@@ -23,13 +23,13 @@ be excellent to each other!
 
 * Körperlicher Kontakt oder herabwürdigendes Verhalten, mit dem nicht alle Beteiligten einverstanden sind, wird nicht geduldet.
 
+* Von Beteiligten, die dazu aufgefordert werden, unangemessenes Verhalten unterlassen, wird erwartet, dass sie das sofort tun. Wenn du solches Verhalten beobachtest wird erwartet, dass du nach Möglichkeit sofort einschreitest, beispielweise indem du dieses Verhalten unterbrichst, auf den Code of Conduct hinweist, betroffenen Personen Beistand leistest oder die Anlaufstelle informierst.
+
 * Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt und vertraulich behandelt. Du kannst dich jederzeit an sie wenden.
 
 * Denk nach, worüber du sprichst. Vergiss nicht, dass sexistische, rassistische oder anderweitig ausschließende Bemerkungen, auch als Witz, beleidigend für deine Mitmenschen sein können. Sie sind nicht passend für das Metalab.
 
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können für andere störend sein. Wenn du darauf hingewiesen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
-
-* Uns ist Konfliktlösung lieber, als Leute des Labs zu verweisen, daher wird immer zuerst ein Kompromiss angestrebt um eine Lösung zu finden, die allen betroffenen Personen recht ist. Wird kein Kompromiss gefunden, können Zuwiderhandelnde gebeten werden ihr Verhalten zu ändern. Wenn sich das Verhalten allerdings fortsetzt, müssen Zuwiderhandelnde das Metalab verlassen, und können mit einem zeitlich begrenzten Hausverbot vom Metalab belegt werden. 
 
 * Alle Member können vom Hausrecht gebrauch machen, und andere Menschen des Labs verweisen. Dieses Hausverbot kann auf core@metalab.at publik gemacht werden.
 
@@ -55,6 +55,3 @@ Benutzungsregeln
 * Beim 10 Minute Cleanup um 21:45 wird das Lab von allen Anwesenden aufgeräumt.
 
 * Länger als 30 min. schlafen ist im Metalab verboten.
-
-
-
