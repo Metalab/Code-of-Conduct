@@ -21,7 +21,7 @@ be excellent to each other!
 
 * Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneten Personen gestattet.
 
-* Körperlicher Kontakt oder herabwürdigendes Verhalten, mit dem nicht alle Beteiligten einverstanden sind, wird nicht geduldet.
+* Unangemessenes Verhalten umfasst ausschließende oder unerwünschte Kommentare über (zum Beispiel) Geschlecht, sexuelle Orientierung, Behinderungen, Aussehen, Konfektionsgröße, ethnische Zugehörigkeit sowie religiöse Überzeugung. Unangemessenes Verhalten umfasst ebenso verbale und körperliche Provokationen, Einschüchterungen, wiederholte Unterbrechungen von Gesprächen und unangemessenen körperlichen Kontakt. Falls du dir nicht sicher bist, ob dein Verhalten angemessen ist, frage bitte nach und stelle sicher, dass alle Anwesenden mit diesem Verhalten einverstanden sind. Nur "ja" heißt "ja"!
 
 * Von Beteiligten, die dazu aufgefordert werden, unangemessenes Verhalten unterlassen, wird erwartet, dass sie das sofort tun. Wenn du solches Verhalten beobachtest wird erwartet, dass du nach Möglichkeit sofort einschreitest, beispielweise indem du dieses Verhalten unterbrichst, auf den Code of Conduct hinweist, betroffenen Personen Beistand leistest oder die Anlaufstelle informierst.
 
