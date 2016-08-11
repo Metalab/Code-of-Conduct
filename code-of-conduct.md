@@ -5,9 +5,9 @@ Code of Conduct
 ---------------
 
 
-Das Metalab ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
+Das Metalab ist eine inklusive Gemeinschaft, wo unabhängig von Alter, Herkunft, Geschlecht, Sexualität oder Religion jede*r willkommen ist, um in einer respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 
-Alle Mitglieder sind gleichberechtigt, und dürfen das Metalab zum erschaffen neuer Dinge nutzen, sofern sie dabei niemanden einschränken. Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs bzw. anderen Treffen im Rahmen des Vereins Metalab von allen Anwesenden erwartet wird.
+Alle Mitglieder sind gleichberechtigt, und dürfen das Metalab zum erschaffen neuer Dinge nutzen, sofern sie dabei niemanden* einschränken. Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs bzw. anderen Treffen im Rahmen des Vereins Metalab von allen Anwesenden erwartet wird.
 
 
 
@@ -17,7 +17,7 @@ Sozialer Umgang
 be excellent to each other!
 
 
-* Das Metalab strebt eine flache Hierarchie an. Daher liegt es an jedem einzelnen, Verantwortung für die Situation im Metalab zu übernehmen.
+* Das Metalab strebt eine flache Hierarchie an. Daher liegt es an jedem* einzelnen*, Verantwortung für die Situation im Metalab zu übernehmen.
 
 * Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneten Personen gestattet.
 
@@ -50,7 +50,7 @@ Benutzungsregeln
 
 * Bevor du Metalab-Infrastruktur veränderst, sprich dich mindestens mit core ab, am besten aber der ganzen internen Mailingliste.
 
-* Beende jegliche Handlung, sobald dich jemand darauf hinweist, dass dadurch jemand eingeschränkt wird.
+* Beende jegliche Handlung, sobald dich jemand* darauf hinweist, dass dadurch jemand* eingeschränkt wird.
 
 * Beim 10 Minute Cleanup um 21:45 wird das Lab von allen Anwesenden aufgeräumt.
 
