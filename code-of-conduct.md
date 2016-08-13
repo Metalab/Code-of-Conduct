@@ -5,7 +5,7 @@ Code of Conduct
 ---------------
 
 
-Das Metalab ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
+Das Metalab ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung Infrastruktur und Wissen zu teilen um hacking (siehe: [unsere Definition von Hacking](https://metalab.at/wiki/Hacking)) zu ermöglichen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 
 Alle Mitglieder sind gleichberechtigt, und dürfen das Metalab zum erschaffen neuer Dinge nutzen, sofern sie dabei niemanden einschränken. Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs bzw. anderen Treffen im Rahmen des Vereins Metalab von allen Anwesenden erwartet wird.
 
@@ -41,12 +41,7 @@ be excellent to each other!
 Benutzungsregeln
 ----------------
 
-
-* Benutze nur Equipment, für das du ausreichend geschult wurdest, bzw. Überzeuge wenigstens ein Mitglied von deinem Wissensstand. Bitte mit dem Equipment vertraute Mitglieder um eine Einschulung, und lies vor allem auch die Wiki-Einträge!
-
-* Bereinige so bald als möglich deinen Arbeitsplatz und das von dir verwendete Equipment, spätestens aber wenn du gehst.
-
-* Solltest du Equipment oder das Metalab beschädigen, informiere schnellst möglich [interne? Core? Anlaufstelle? Wiki?] und kümmere dich um Schadensbegrenzung bzw. -behebung. ["Die meisten Schäden werden vom Metalab als Abnutzungserscheinung selbst finanziell getragen, sofern du nicht grob Fahrlässig gehandelt hast."?]
+* Die [Benutzungsregeln von Whateverlab und Heavy Machinery](https://metalab.at/wiki/WhateverLab/Guide) sind zu lesen und zu akzeptieren bevor diese Räume verwendet werden
 
 * Bevor du Metalab-Infrastruktur veränderst, sprich dich mindestens mit core ab, am besten aber der ganzen internen Mailingliste.
 
