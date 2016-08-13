@@ -5,7 +5,7 @@ Code of Conduct
 ---------------
 
 
-Das Metalab ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung zu hacken (siehe: [unsere Definition von Hacking](https://metalab.at/wiki/Hacking)). Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
+Das Metalab ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung Infrastruktur und Wissen zu teilen um hacking (siehe: [unsere Definition von Hacking](https://metalab.at/wiki/Hacking)) zu ermöglichen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 
 Alle Mitglieder sind gleichberechtigt, und dürfen das Metalab zum erschaffen neuer Dinge nutzen, sofern sie dabei niemanden einschränken. Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs bzw. anderen Treffen im Rahmen des Vereins Metalab von allen Anwesenden erwartet wird.
 
