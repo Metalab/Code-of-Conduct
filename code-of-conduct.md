@@ -55,3 +55,5 @@ Benutzungsregeln
 * Beim 10 Minute Cleanup um 21:45 wird das Lab von allen Anwesenden aufgeräumt.
 
 * Länger als 30 min. schlafen ist im Metalab verboten.
+
+* Auch wenn manche Menschen das Gegenteil behaupten: Es gibt keinen Reaktor unter dem Metalab.
