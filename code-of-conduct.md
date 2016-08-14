@@ -16,9 +16,6 @@ Sozialer Umgang
 
 be excellent to each other!
 
-
-* Das Metalab strebt eine flache Hierarchie an. Daher liegt es an jedem einzelnen, Verantwortung für die Situation im Metalab zu übernehmen.
-
 * Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneten Personen gestattet.
 
 * Unangemessenes Verhalten umfasst ausschließende oder unerwünschte Kommentare über (zum Beispiel) Geschlecht, sexuelle Orientierung, Behinderungen, Aussehen, Konfektionsgröße, ethnische Zugehörigkeit sowie religiöse Überzeugung. Unangemessenes Verhalten umfasst ebenso verbale und körperliche Provokationen, Einschüchterungen, wiederholte Unterbrechungen von Gesprächen und unangemessenen körperlichen Kontakt. Falls du dir nicht sicher bist, ob dein Verhalten angemessen ist, frage bitte nach und stelle sicher, dass alle Anwesenden mit diesem Verhalten einverstanden sind. Nur "ja" heißt "ja"!
