@@ -15,7 +15,7 @@ Alle Mitglieder sind gleichberechtigt, und dürfen das Metalab zum erschaffen ne
 
 * Von Beteiligten, die dazu aufgefordert werden, unangemessenes Verhalten unterlassen, wird erwartet, dass sie das sofort tun. Wenn du solches Verhalten beobachtest wird erwartet, dass du nach Möglichkeit sofort einschreitest, beispielweise indem du dieses Verhalten unterbrichst, auf den Code of Conduct hinweist, betroffenen Personen Beistand leistest oder die Anlaufstelle informierst.
 
-* Denk nach, worüber du sprichst. Bitte beachte, dass ausschließende Bemerkungen (z.B. Sexismus, Rassismus, Ableismus, Queerfeindlichkeit, etc.), auch als Witz, beleidigend für deine Mitmenschen sein können. Sie sind nicht passend für das Metalab.
+* Denk nach, worüber du sprichst. Bitte beachte, dass ausschließende Bemerkungen (z.B. Sexismus, Rassismus, Ableismus, Queerfeindlichkeit, etc.), auch als Witz, beleidigend für deine Mitmenschen sein können.
 
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können für andere störend sein. Wenn du darauf hingewiesen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
 
