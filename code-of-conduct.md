@@ -34,23 +34,4 @@ be excellent to each other!
 
 * Das Metalab ist sich der Verantwortung bewusst, einen möglichst offenen und inklusiven Hackspace zu betreiben, und setzt sich als Ziel eine reflektierte und aufgeklärte Community zu bilden. Nach negativen Vorfällen tut das Metalab sein Möglichstes, um diese aufzuarbeiten und sie in Zukunft zu vermeiden.
 
-
-
-
-Benutzungsregeln
-----------------
-
-
-* Benutze nur Equipment, für das du ausreichend geschult wurdest, bzw. Überzeuge wenigstens ein Mitglied von deinem Wissensstand. Bitte mit dem Equipment vertraute Mitglieder um eine Einschulung, und lies vor allem auch die Wiki-Einträge!
-
-* Bereinige so bald als möglich deinen Arbeitsplatz und das von dir verwendete Equipment, spätestens aber wenn du gehst.
-
-* Solltest du Equipment oder das Metalab beschädigen, informiere schnellst möglich [interne? Core? Anlaufstelle? Wiki?] und kümmere dich um Schadensbegrenzung bzw. -behebung. ["Die meisten Schäden werden vom Metalab als Abnutzungserscheinung selbst finanziell getragen, sofern du nicht grob Fahrlässig gehandelt hast."?]
-
-* Bevor du Metalab-Infrastruktur veränderst, sprich dich mindestens mit core ab, am besten aber der ganzen internen Mailingliste.
-
-* Beende jegliche Handlung, sobald dich jemand darauf hinweist, dass dadurch jemand eingeschränkt wird.
-
-* Beim 10 Minute Cleanup um 21:45 wird das Lab von allen Anwesenden aufgeräumt.
-
-* Länger als 30 min. schlafen ist im Metalab verboten.
+* Du bist für die Erhaltung des Metalabs wichtig, befolge daher unsere [Nutzungsabmachungen](https://metalab.at/wiki/Kategorie:Policies/Overview).
