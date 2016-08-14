@@ -16,7 +16,7 @@ Sozialer Umgang
 
 be excellent to each other!
 
-* Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt und vertraulich behandelt. Du kannst dich jederzeit an sie wenden.
+* Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt, diese vertraulich behandelt und sich solidarisch mit Betroffenen verhält. Du kannst dich jederzeit an sie wenden.
 
 * Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneten Personen gestattet.
 
@@ -31,6 +31,8 @@ be excellent to each other!
 * Alle Member können bei grobem Fehlverhalten einen Platzverweis von bis zu 24h aussprechen. Dieser muss an die Anlaufstelle kommuniziert werden. Einzelne Personen der Anlaufstelle können den Platzverweis auf bis zu 48h ausweiten, gemeinsam entscheidet die Anlaufstelle über weitere Sanktionen und informiert core@metalab.at über diese Entscheidungen. Der Anlaufstelle ist überlassen, wie sie diese Entscheidungen trifft, es ist für weitergehende Sanktionen aber die Zustimmung mindestens dreier Personen in der Anlaufstelle notwendig. Member, über deren Hausverbot entschieden wird, gelten im Rahmen dieser Entscheidungsfindung nicht als Teil der Anlaufstelle. Die Anlaufstelle kann Verwarnungen aussprechen oder temporäre oder unbegrenzte Hausverbote in Absprache mit dem Vorstand erteilen.
 
 * Gegen ein Hausverbot kann bei der Anlaufstelle Einspruch erhoben werden. Ein bestehendes Hausverbot ist aber gültig, bis dieses (durch einen Beschluss von Jour Fixe, Mailingliste, Core, Vorstand?) aufgehoben wird.
+
+* Das Metalab ist sich der Verantwortung bewusst, einen möglichst offenen und inklusiven Hackspace zu betreiben, und setzt sich als Ziel eine reflektierte und aufgeklärte Community zu bilden. Nach negativen Vorfällen tut das Metalab sein Möglichstes, um diese aufzuarbeiten und sie in Zukunft zu vermeiden.
 
 
 
