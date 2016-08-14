@@ -31,7 +31,7 @@ be excellent to each other!
 
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können für andere störend sein. Wenn du darauf hingewiesen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
 
-* Alle Member können vom Hausrecht gebrauch machen, und andere Menschen des Labs verweisen. Dieses Hausverbot kann auf core@metalab.at publik gemacht werden.
+* Alle Member können bei grobem Fehlverhalten einen Platzverweis von bis zu 24h aussprechen. Dieser muss an die Anlaufstelle kommuniziert werden. Einzelne Personen der Anlaufstelle können den Platzverweis auf bis zu 48h ausweiten, gemeinsam entscheidet die Anlaufstelle über weitere Sanktionen und informiert core@metalab.at über diese Entscheidungen. Der Anlaufstelle ist überlassen, wie sie diese Entscheidungen trifft, es ist für weitergehende Sanktionen aber die Zustimmung mindestens dreier Personen in der Anlaufstelle notwendig. Member, über deren Hausverbot entschieden wird, gelten im Rahmen dieser Entscheidungsfindung nicht als Teil der Anlaufstelle. Die Anlaufstelle kann Verwarnungen aussprechen oder temporäre oder unbegrenzte Hausverbote in Absprache mit dem Vorstand erteilen.
 
 * Gegen ein Hausverbot kann bei der Anlaufstelle Einspruch erhoben werden. Ein bestehendes Hausverbot ist aber gültig, bis dieses (durch einen Beschluss von Jour Fixe, Mailingliste, Core, Vorstand?) aufgehoben wird.
 
