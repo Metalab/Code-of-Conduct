@@ -7,7 +7,7 @@ Alle Mitglieder sind gleichberechtigt, und dürfen das Metalab zum erschaffen ne
 
 * Be excellent to each other!
 
-* Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt, diese vertraulich behandelt und sich solidarisch mit Betroffenen verhält. Du kannst dich jederzeit an sie wenden.
+* Das Metalab hat eine [Anlaufstelle](https://metalab.at/wiki/Anlaufstelle), die alle gemeldeten Vorfälle ernst nimmt, diese vertraulich behandelt und sich solidarisch mit Betroffenen verhält. Du kannst dich jederzeit an sie wenden.
 
 * Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneten Personen gestattet.
 
