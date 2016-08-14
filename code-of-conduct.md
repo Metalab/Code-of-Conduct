@@ -16,13 +16,13 @@ Sozialer Umgang
 
 be excellent to each other!
 
+* Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt und vertraulich behandelt. Du kannst dich jederzeit an sie wenden.
+
 * Aufzeichnungen jeglicher Art sind im Metalab nur mit Einwilligung aller aufgezeichneten Personen gestattet.
 
 * Unangemessenes Verhalten umfasst ausschließende oder unerwünschte Kommentare über (zum Beispiel) Geschlecht, sexuelle Orientierung, Behinderungen, Aussehen, Konfektionsgröße, ethnische Zugehörigkeit sowie religiöse Überzeugung. Unangemessenes Verhalten umfasst ebenso verbale und körperliche Provokationen, Einschüchterungen, wiederholte Unterbrechungen von Gesprächen und unangemessenen körperlichen Kontakt. Falls du dir nicht sicher bist, ob dein Verhalten angemessen ist, frage bitte nach und stelle sicher, dass alle Anwesenden mit diesem Verhalten einverstanden sind. Nur "ja" heißt "ja"!
 
 * Von Beteiligten, die dazu aufgefordert werden, unangemessenes Verhalten unterlassen, wird erwartet, dass sie das sofort tun. Wenn du solches Verhalten beobachtest wird erwartet, dass du nach Möglichkeit sofort einschreitest, beispielweise indem du dieses Verhalten unterbrichst, auf den Code of Conduct hinweist, betroffenen Personen Beistand leistest oder die Anlaufstelle informierst.
-
-* Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt und vertraulich behandelt. Du kannst dich jederzeit an sie wenden.
 
 * Denk nach, worüber du sprichst. Bitte beachte, dass ausschließende Bemerkungen (z.B. Sexismus, Rassismus, Ableismus, Queerfeindlichkeit, etc.), auch als Witz, beleidigend für deine Mitmenschen sein können. Sie sind nicht passend für das Metalab.
 
