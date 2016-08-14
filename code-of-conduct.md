@@ -1,20 +1,11 @@
-Hausordnung
-===========
-
-Code of Conduct
----------------
-
+Code of Conduct (Hausordnung)
+=============================
 
 Das Metalab ist eine inklusive Gemeinschaft, wo alle unabhängig ihres Alters, ihrer Herkunft, ihres Geschlechts, ihrer Sexualität, ihres Einkommens oder ihrer Religion willkommen sind, um in einer respektvollen, toleranten und ermutigenden Umgebung über Technologie zu diskutieren und zu lernen. Wir wollen, dass alle Anwesenden eine angenehme und erfüllende Zeit im Metalab verbringen. Daher sind alle Anwesenden dazu angehalten, freundlich und respektvoll miteinander umzugehen.
 
 Alle Mitglieder sind gleichberechtigt, und dürfen das Metalab zum erschaffen neuer Dinge nutzen, sofern sie dabei niemanden einschränken. Der folgende Code of Conduct hält fest, was in den Räumlichkeiten des Metalabs bzw. anderen Treffen im Rahmen des Vereins Metalab von allen Anwesenden erwartet wird.
 
-
-
-Sozialer Umgang
----------------
-
-be excellent to each other!
+* Be excellent to each other!
 
 * Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt, diese vertraulich behandelt und sich solidarisch mit Betroffenen verhält. Du kannst dich jederzeit an sie wenden.
 
