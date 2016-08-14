@@ -24,7 +24,7 @@ be excellent to each other!
 
 * Das Metalab hat eine Anlaufstelle, die alle gemeldeten Vorfälle ernst nimmt und vertraulich behandelt. Du kannst dich jederzeit an sie wenden.
 
-* Denk nach, worüber du sprichst. Vergiss nicht, dass sexistische, rassistische oder anderweitig ausschließende Bemerkungen, auch als Witz, beleidigend für deine Mitmenschen sein können. Sie sind nicht passend für das Metalab.
+* Denk nach, worüber du sprichst. Bitte beachte, dass ausschließende Bemerkungen (z.B. Sexismus, Rassismus, Ableismus, Queerfeindlichkeit, etc.), auch als Witz, beleidigend für deine Mitmenschen sein können. Sie sind nicht passend für das Metalab.
 
 * Auch Handlungen, die du aus deinem Umfeld als unproblematisch kennst, können für andere störend sein. Wenn du darauf hingewiesen wirst, erwarten wir, dass du Verantwortung und Rücksicht zeigst.
 
