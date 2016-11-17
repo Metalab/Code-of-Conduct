@@ -17,7 +17,7 @@ All members enjoy equal rights and may use _Metalab_ to create new things, as lo
 
 * Think about what you say. Remember that exclusionary comments (e.g. sexism, racism, ableism, hostility towards queer people,…) – including jokes – can be offensive to those around you. They are not suitable for _Metalab_.
 
-* Even actions, that are not recognised as problematic in your social group, can be irritating to others. If this is pointed out, we expect that you show responsibility and consideration.
+* Even actions, that are not recognized as problematic in your social group, can be irritating to others. If this is pointed out, we expect that you show responsibility and consideration.
 
 * In pressing situations all members can expel others for up to 48h. The _Vorstand_ (via core[ÄT]metalab.at) as well as the _Anlaufstelle_ have to be informed about this. The _Vorstand_ can decide within these 48h about further measures. Possible measures include warnings, deactivation of keys as well as temporary or indefinite bans.
 
