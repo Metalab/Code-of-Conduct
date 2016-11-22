@@ -7,7 +7,7 @@ All members enjoy equal rights and may use _Metalab_ to create new things, as lo
 
 * Be excellent to each other!
 
-* _Metalab_ has a [_Anlaufstelle_](https://_Metalab_.at/wiki/Anlaufstelle), which you can turn to in any situation. It deals with all incidents in a serious and confidential manner and shows solidarity with the affected people.
+* _Metalab_ has an [awareness team called _Anlaufstelle_](https://_Metalab_.at/wiki/Anlaufstelle), which you can turn to in any situation. It deals with all incidents in a serious and confidential manner and shows solidarity with the affected people.
 
 * Recordings in any form at the _Metalab_ are only allowed with the consent of all captured individuals.
 
