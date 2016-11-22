@@ -7,7 +7,7 @@ All members enjoy equal rights and may use _Metalab_ to create new things, as lo
 
 * Be excellent to each other!
 
-* _Metalab_ has an [awareness team called _Anlaufstelle_](https://_Metalab_.at/wiki/Anlaufstelle), which you can turn to in any situation. It deals with all incidents in a serious and confidential manner and shows solidarity with the affected people.
+* _Metalab_ has an [awareness team called _Anlaufstelle_](https://metalab.at/wiki/Anlaufstelle), which you can turn to in any situation. It deals with all incidents in a serious and confidential manner and shows solidarity with the affected people.
 
 * Recordings in any form at the _Metalab_ are only allowed with the consent of all captured individuals.
 
@@ -25,4 +25,4 @@ All members enjoy equal rights and may use _Metalab_ to create new things, as lo
 
 * _Metalab_ is aware of its responsibilities to run a hackerspace which is as open and inclusive as possible and aims at forming a reflected and enlightened community. If an incident occurs, _Metalab_ will do its best to assess and reappraise the situation and to make sure this does not reoccur in the future.
 
-* You are important for maintaining _Metalab_, therefore please follow our [Policies](https://_Metalab_.at/wiki/Kategorie:Policies)
+* You are important for maintaining _Metalab_, therefore please follow our [Policies](https://metalab.at/wiki/Kategorie:Policies)
